@@ -11,17 +11,19 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
      
 <p>10 Things That Require Zero Talent</p>
-
-<p>1. Being On Time</p>
-<p>2. Making An Effort</p>
-<p>3. Being High Energy</p>
-<p>4. Having A Positive Attitude</p>
-<p>5. Being Passionate</p>
-<p>6. Using Good Body Language</p>
-<p>7. Being Coachable</p>
-<p>8. Doing A Little Extra</p>
-<p>9. Being Prepared</p>
-<p>10. Having A Strong Work Ethic</p>
+    
+<ul>
+<li>1. Being On Time</li>
+<li>2. Making An Effort</li>
+<li>3. Being High Energy</li>
+<li>4. Having A Positive Attitude</li>
+<li>5. Being Passionate</li>
+<li>6. Using Good Body Language</li>
+<li>7. Being Coachable</li>
+<li>8. Doing A Little Extra</li>
+<li>9. Being Prepared</li>
+<li>10. Having A Strong Work Ethic</li>
+    </ul>
 
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
