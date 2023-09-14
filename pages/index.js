@@ -10,12 +10,16 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-  During my internship, I, Jose Paulo Mendoza, had the opportunity to work at Social Rhino Media, 
-a Canadian-based company with an office located in San Fernando, Pampanga. My job within the company 
-was content researcher and a graphics designer. This role allowed me to gain a experience understanding
-of the media industry and develop a skills. One of the reasons I chose to intern at Social Rhino Media 
-is because I already work there since 2021 and so that I would not have a conflict in my schedule. This helped 
-me to gain exposure in a work environment and learned to socialize with different types of people.
+<br>1. Being On Time</br>
+<br>2. Making An Effort</br>
+<br>3. Being High Energy</br>
+<br>4. Having A Positive Attitude</br>
+<br>5. Being Passionate</br>
+<br>6. Using Good Body Language</br>
+<br>7. Being Coachable</br>
+<br>8. Doing A Little Extra</br>
+<br>9. Being Prepared</br>
+<br>10. Having A Strong Work Ethic</br>
 </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
